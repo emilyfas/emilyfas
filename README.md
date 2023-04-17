@@ -1,4 +1,4 @@
-### Olá, é a Emilly Fernandes aqui!👋
+## Bem vindo ao meu Github, é a Emilly Fernandes aqui!👋
 
 - 🔭 Cursando Ciência da Computação 1° Semestre
 - 🌱 Aprendendo Java e aprofundando no Front-End
@@ -14,6 +14,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
-
-
-![Snake animation](https://github.com/emilyfas/emilyfas/blob/output/github-contribution-grid-snake.svg)
