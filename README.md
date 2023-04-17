@@ -1,8 +1,6 @@
 ## Bem vindo ao meu Github, é a Emilly Fernandes aqui!👋
 
 - 🔭 Cursando Ciência da Computação 1° Semestre
-- 🌱 Aprendendo Java e aprofundando no Front-End
-- 📫 Contato: emilly.fernandesads@gmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Tenho uma gatinha chamada kitty
 
