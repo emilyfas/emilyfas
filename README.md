@@ -3,6 +3,7 @@
 - 🔭 Cursando Ciência da Computação 1° Semestre
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Tenho uma gatinha chamada kitty
+- 🗺️ Belo Horizonte, MG - Brasil
 
 ### Tecnologias:
 <div>
