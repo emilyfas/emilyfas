@@ -16,4 +16,4 @@
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/emilyfas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/emilyfas/emilyfas/blob/output/github-contribution-grid-snake.svg)
