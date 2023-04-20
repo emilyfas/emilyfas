@@ -1,11 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=2500&pause=2000&color=592895&center=false&multiline=true&width=435&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=2000&color=592895&repeat=false&width=435&lines=%C3%89+a+Emilly+Fernandes+aqui)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=2500&pause=2000&color=0097A7&center=false&multiline=true&width=435&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=3000&pause=2000&color=0097A7&repeat=false&width=435&lines=%C3%89+a+Emilly+Fernandes+aqui)](https://git.io/typing-svg)
+
+  
 - 🔭 Cursando Ciência da Computação 1° Semestre
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Tenho uma gatinha chamada kitty
 - 🗺️ Belo Horizonte, MG - Brasil
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias:
 <div>
