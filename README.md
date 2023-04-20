@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=3000&pause=2000&color=0097A7&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=3000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=4000&pause=2000&color=0097A7&center=true&vCenter=true&repeat=false&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=25&duration=4000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=false&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
 <div align="center">
 🔭 Cursando Ciência da Computação 1° Semestre<br>
@@ -29,7 +29,7 @@
 </div>
   
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=0097A7&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=6ED8E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&hide_border=true&title_color=0097A7&text_color=ff91a4&bg_color=0d1117" />
 </div>
   
