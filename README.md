@@ -1,4 +1,4 @@
-## Bem vindo ao meu Github, é a Emilly Fernandes aqui!👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=30&duration=2500&pause=2000&color=592895&center=true&multiline=true&width=435&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 - 🔭 Cursando Ciência da Computação 1° Semestre
 - 😄 Pronomes: Ela/Dela
