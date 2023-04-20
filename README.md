@@ -11,23 +11,19 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
- 
+
 ### Tecnologias:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="55px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60px" />         
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
+
 
 ### Aprendendo:
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" />       
-</div>
-</div>
-  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+ 
+ 
+ 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=6ED8E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&hide_border=true&title_color=0097A7&text_color=ff91a4&bg_color=0d1117" />
