@@ -23,7 +23,7 @@ Meu nome é Emilly Fernandes e tenho 18 anos, eu sou estudante de Ciência da Co
 
 ### Aprendendo:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
- 
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
  
  
 <div align="center">  
