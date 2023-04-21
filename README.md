@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=false&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
 <div align="center">
-Meu nome é Emilly Fernandes, eu sou estudante de Ciência da Computação, com foco em desenvolvimento full stack, domino o desenvolvimento Front-End, HTML, CSS, Bootstrap e JavaScript, e estou aprendendo Back-End, começando pela linguagem Java.
+Meu nome é Emilly Fernandes, eu sou estudante de Ciência da Computação, com ênfase em full stack dev, domino o desenvolvimento Front-End, HTML, CSS, Bootstrap e JavaScript, e estou aprendendo Back-End, começando pela linguagem Java.
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
