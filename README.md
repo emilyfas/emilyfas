@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&duration=4000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=40&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=Bem+Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
 <div align="center">
 Meu nome é Emilly Fernandes e tenho 18 anos, eu sou estudante de Ciência da Computação, com ênfase em full stack dev, e estou a espera de uma oportunidade para estágio como desenvolvedora.
