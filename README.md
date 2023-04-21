@@ -3,14 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=2000&color=6ED8E5&center=true&vCenter=true&repeat=false&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
 <div align="center">
-🔭 Cursando Ciência da Computação 1° Semestre<br>
-😄 Pronomes: Ela/Dela<br>
-⚡ Fun fact: Tenho uma gatinha chamada kitty<br> 
-🗺️ Belo Horizonte, MG - Brasil
+Meu nome é Emilly Fernandes, eu sou estudante de Ciência da Computação, com foco em desenvolvimento full stack, domino o desenvolvimento Front-End, HTML, CSS, Bootstrap e JavaScript, e estou aprendendo Back-End, começando pela linguagem Java.
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+- 🔭 Cursando Ciência da Computação 1° Semestre
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fun fact: Tenho uma gatinha chamada kitty
+- 🗺️ Belo Horizonte, MG - Brasil
 
 ### Tecnologias:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
