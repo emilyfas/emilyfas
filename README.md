@@ -4,6 +4,7 @@
 
 <div align="center">
 Meu nome é Emilly Fernandes, eu tenho 18 anos e sou estudante de Ciência da Computação com foco em full stack dev, domino o desenvolvimento Front-End (HTML, CSS, Bootstrap e JavaScript), e estou aprendendo Back-End, começando pela linguagem Java. Também tenho conhecimento em GIT, Github, Excel e Pacote Office, além das softskills: facilidade na comunicação, proatividade, entusiasmo para trabalho em equipe e organização.
+
 Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de
 adquirir experiências e aprendizado sobre o meio de trabalho tech. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
 </div>
