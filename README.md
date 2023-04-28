@@ -11,16 +11,16 @@ Meu nome é Emilly Fernandes, eu tenho 18 anos e sou estudante de Ciência da Co
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+- 🔭 Cursando Ciência da Computação 1° Semestre
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fun fact: Tenho uma gatinha chamada kitty
+- 🗺️ Belo Horizonte, MG - Brasil
+
 ## Objetivo Profissional:
 <div align="center">
  
 Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de adquirir experiências e aprendizado sobre o meio de trabalho tech. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
 </div>
- 
-- 🔭 Cursando Ciência da Computação 1° Semestre
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Tenho uma gatinha chamada kitty
-- 🗺️ Belo Horizonte, MG - Brasil
 
 ### Tecnologias:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
