@@ -19,7 +19,7 @@ Meu nome é Emilly Fernandes, eu tenho 18 anos e sou estudante de Ciência da Co
 ## Objetivo Profissional:
 <div align="center">
  
-Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de adquirir experiências e aprendizado sobre o meio de trabalho tech. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
+Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de adquirir experiências e aprendizado sobre o meio de trabalho <i>tech</i>. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
 </div>
 
 ### Tecnologias:
