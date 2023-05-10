@@ -39,6 +39,8 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 ### Aprendendo:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+ ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+ 
  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=6ED8E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
