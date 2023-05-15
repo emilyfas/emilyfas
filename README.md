@@ -63,3 +63,9 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 <a href="https://www.linkedin.com/in/emilly-fernandes-alves-de-souza-2b451a24b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
+
+<br>
+<div align="center">  
+  
+Obrigado pela atenção! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</div>
