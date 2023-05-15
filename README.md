@@ -2,22 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
-<div align="center">
-Meu nome é Emilly Fernandes, eu tenho 18 anos e sou estudante de Ciência da Computação com foco em full stack dev, domino o desenvolvimento Front-End (HTML, CSS, Bootstrap e JavaScript), e estou aprendendo Back-End, começando pela linguagem Java. Também tenho conhecimento em GIT, Github, Excel e Pacote Office, além das softskills: facilidade na comunicação, proatividade, entusiasmo para trabalho em equipe e organização.
-
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
 
 - 🔭 Cursando Ciência da Computação 1° Semestre
+- :bowtie: Idade: 18 anos
+- 👩‍💻 Desenvolvedora Front-End
+- :dart: Foco: Full Stack Dev
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Tenho uma gatinha chamada kitty
 - 🗺️ Belo Horizonte, MG - Brasil
+- ⚡ Fun fact: Tenho uma gatinha chamada kitty
 
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias:</b>
 
@@ -33,22 +28,25 @@ Meu nome é Emilly Fernandes, eu tenho 18 anos e sou estudante de Ciência da Co
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
  
-
-
-## Aprendendo:
+### Aprendendo:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
- ## Objetivo Profissional:
+<hr>
+
+## Objetivo Profissional:
 <div align="center">
  
 Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de adquirir experiências e aprendizado sobre o meio de trabalho <i>tech</i>. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
 </div>
- 
- 
+
+<hr>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=6ED8E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&hide_border=true&title_color=0097A7&text_color=ff91a4&bg_color=0d1117" />
@@ -56,7 +54,7 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
   
 <div align="center">  
   
-## Contato:
+## <b> Entre em Contato..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div>
 <a href="https://wa.me/5531989018696?text=Me+mande+um+Oi+%3A%29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/emillygarai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
