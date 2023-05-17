@@ -53,9 +53,9 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 
 <a href="https://github.com/emilyfas">
 
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilyfas&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilyfas&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </a>
 
