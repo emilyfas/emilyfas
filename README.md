@@ -51,9 +51,9 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 
 <div align="center">  
 
-<img width="48%" height="560px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="emilyfas's Stats"/>
+<img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="emilyfas's Stats"/>
 
-<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="emilyfas's Languages"/>
+<img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="emilyfas's Languages"/>
 
 </div>
   
