@@ -7,8 +7,8 @@
  <img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - :raising_hand: Nome: Emilly Fernandes
-- 🔭 Ciência da Computação 1° Semestre
 - :bowtie: Idade: 18 anos
+- 🔭 Ciência da Computação 1° Semestre
 - 👩‍💻 Desenvolvedora Front-End
 - :dart: Foco: Full Stack Dev
 - 😄 Pronomes: Ela/Dela
