@@ -50,32 +50,12 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=6ED8E5&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&hide_border=true&title_color=0097A7&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-
-
-
-
-
-<div align="center">  
 
 <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="emilyfas's Stats"/>
 
-<img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=emilyfas&theme=tokyonight&hide_border=true" alt="emilyfas's Streak"/>
-
-
-![emilyfas's Stats](https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![emilyfas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emilyfas&theme=tokyonight&hide_border=true)
-
-![emilyfas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="emilyfas's Languages"/>
 
 </div>
-
-
-
   
 <div align="center">  
   
