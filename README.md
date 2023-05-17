@@ -63,6 +63,8 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 
 <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="emilyfas's Stats"/>
 
+<img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=emilyfas&theme=tokyonight&hide_border=true" alt="emilyfas's Streak"/>
+
 
 ![emilyfas's Stats](https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
