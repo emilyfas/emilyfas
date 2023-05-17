@@ -49,13 +49,17 @@ Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<div align="center">  
+<p align="center">
 
-<img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="emilyfas's Stats"/>
+<a href="https://github.com/emilyfas">
 
-<img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="emilyfas's Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emilyfas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilyfas&layout=compact&langs_count=8&theme=algolia"/>
+
+</a>
+
+</p>
   
 <div align="center">  
   
