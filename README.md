@@ -37,16 +37,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<hr>
-
-## Objetivo Profissional:
-<div align="center">
- 
-Meu objetivo no momento, seria um estágio na área de desenvolvimento web Front-End, onde eu possa ampliar meu conhecimento na área, além de adquirir experiências e aprendizado sobre o meio de trabalho <i>tech</i>. Estou disposta a usar minha flexibilidade e vontade de aprender a meu favor, e ao benefício do meu futuro time.
-</div>
-
-<hr>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
