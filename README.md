@@ -39,18 +39,14 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  
+ <div align="center">  
 
-<p align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=0097A7&text_color=c9d1d9&bg_color=0d1117" alt="Emilly Fernandes github stats" /> 
 
-<a href="https://github.com/emilyfas">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&hide_border=true&title_color=0097A7&text_color=ff91a4&bg_color=0d1117" />
 
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emilyfas&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</a>
-
-</p>
+</div> 
   
 <div align="center">  
   
