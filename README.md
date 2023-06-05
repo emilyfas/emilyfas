@@ -13,7 +13,7 @@
 - :dart: Foco: Full Stack Dev
 - 😄 Pronomes: Ela/Dela
 - 🗺️ Belo Horizonte, MG - Brasil
-- ⚡ Fun fact: Tenho uma gatinha chamada kitty
+- ⚡ Fun fact: Tenho uma gatinha chamada cloe
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
