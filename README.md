@@ -42,9 +42,9 @@
   
  <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A7&icon_color=0097A7&text_color=000g_color=0d111" alt="Emilly Fernandes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&count_private=true&hide_border=true&title_color=0097A8&icon_color=0097A7&text_color=000g_color=0d111" alt="Emilly Fernandes github stats" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&count_private=true&layout=compact&hide_border=true&title_color=0097A7&text_color=0097A7g_color=0d111" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&count_private=true&layout=compact&hide_border=true&title_color=0097A8&text_color=0097A7g_color=0d111" />
 
 </div> 
   
