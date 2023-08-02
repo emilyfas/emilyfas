@@ -10,7 +10,7 @@
 - :bowtie: Idade: 18 anos
 - 🔭 Ciência da Computação 1° Semestre
 - 👩‍💻 Desenvolvedora Front-End
-- :dart: Foco: Full Stack Dev
+- :dart: Em transição para: Back-end
 - 😄 Pronomes: Ela/Dela
 - 🗺️ Belo Horizonte, MG - Brasil
 - ⚡ Fun fact: Tenho uma gatinha chamada zoe
