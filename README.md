@@ -15,7 +15,7 @@
 - 🗺️ Belo Horizonte, MG - Brasil
 - ⚡ Fun fact: Tenho uma gatinha chamada zoe
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Emilly github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
@@ -46,7 +46,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight)
+![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=donut&theme=tokyonight)
 
   
