@@ -45,8 +45,11 @@
 <hr>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+<p align="left">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dianamartine&title_color=e152aa&icon_color=ff66c4&text_color=0097A7&bg_color=0d1117&border_color=whitec&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dianamartine&layout=compact&title_color=e152aa&icon_color=ff66c4&text_color=0097A7&bg_color=0d1117&show_icons=true"/>
+</p>
 
   
 <div align="center">  
