@@ -43,6 +43,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center">  
   
