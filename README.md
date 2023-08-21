@@ -46,8 +46,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  
-![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfas&layout=donut&theme=tokyonight)
+![Emilly GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfa&layout=donut&theme=tokyonight)
 
   
 <div align="center">  
