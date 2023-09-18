@@ -8,7 +8,7 @@
 
 - :raising_hand: Nome: Emilly Fernandes
 - :bowtie: Idade: 18 anos
-- 🔭 Ciência da Computação 1° Semestre
+- 🔭 Ciência da Computação 2° Semestre
 - 👩‍💻 Desenvolvedora Front-End
 - :dart: Em transição para: Back-end
 - 😄 Pronomes: Ela/Dela
