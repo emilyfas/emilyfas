@@ -10,7 +10,7 @@
 - :bowtie: Idade: 18 anos
 - 🔭 Ciência da Computação 2° Semestre
 - 👩‍💻 Desenvolvedora Back-end
-- 😄 Pronomes: Ela/Dela
+- 💬 Pergunte-me sobre Java 
 - 🗺️ Belo Horizonte, MG - Brasil
 - ⚡ Fun fact: Tenho uma gatinha chamada zoe
 
@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +45,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
 ### Aprendendo:
-![MySQL](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyfas&show_icons=true&theme=radical)
@@ -59,7 +60,8 @@
 <a href="https://instagram.com/emillygarai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/emilly_fernads" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto:emilly.fernandesads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emilly-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/emilly-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://leetcode.com/emilyfas/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
 </div>
 </div>
 
