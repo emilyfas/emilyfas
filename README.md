@@ -9,14 +9,15 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim:**
 
 - :raising_hand: Nome: Emilly Fernandes
-- :bowtie: Idade: 18 anos
 - 🔭 Ciência da Computação 2° Semestre
 - 👩‍💻 Desenvolvedora Back-end
 - 💬 Pergunte-me sobre Java 
 - 🗺️ Belo Horizonte, MG - Brasil
 - ⚡ Fun fact: Tenho uma gatinha chamada zoe
 
+<!--
 [![Emilly github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emilyfas&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <hr>
 
