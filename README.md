@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=4000&pause=3000&color=6ED8E5&center=true&vCenter=true&repeat=true&width=1000&lines=%C3%89+a+Emilly+Fernandes+aqui.)](https://git.io/typing-svg)
 
 
-<hr>
- <img align="right" width="35%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # **Sobre mim:**
 
