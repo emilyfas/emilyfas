@@ -14,6 +14,9 @@
 - 💬 Pergunte-me sobre Java 
 - 🗺️ Belo Horizonte, MG - Brasil
 
+<img src="metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+<img width="900" height="1" alt="">
+  
 
 <hr>
 
