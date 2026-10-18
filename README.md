@@ -7,7 +7,7 @@
 - :raising_hand: Nome: Emilly Fernandes
 - 🔭 Ciência da Computação 6° Semestre
 - 👩‍💻 Em busca de estágio 
-- 💬 Pergunte-me sobre Análise de Dados 
+- 💬 Pergunte-me sobre Python
 - 🗺️ Belo Horizonte, MG - Brasil
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias:
