@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1600" height="279" alt="banner-github-slim" src="https://github.com/user-attachments/assets/afe57a36-1403-41d5-b82f-8e60844d9eaa" />
+<img width="1600" height="554" alt="banner-github-alt" src="https://github.com/user-attachments/assets/3aa27bf4-4bae-4d9a-9571-f9056847be6d" />
 
 # Olá! Eu sou a Emilly Fernandes 👋
 
