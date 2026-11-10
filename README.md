@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/emilly-github-intro.svg" width="100%" />
+</div>
 
-<!--
-**emilyfas/emilyfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Bem-vindo ao meu GitHub👋
 
-Here are some ideas to get you started:
+🎓 Estudante de **Ciência da Computação** no Centro Universitário Una e **Estagiária de Tecnologia** no Iveco Group.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interessada em **desenvolvimento de software**, automação e soluções tecnológicas.
+
+📚 Estou desenvolvendo minhas habilidades por meio de estudos e projetos práticos, explorando diferentes tecnologias. Aqui compartilho meus projetos, aprendizados e minha evolução na programação.
+
+**Veja meu [portfólio](https://emilyfas.github.io/emilly-portfolio/).**
+
+[![Skills](https://skillicons.dev/icons?i=python,java,typescript,mysql,html,css,git)](https://skillicons.dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-fernandes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emilly.fernandesads@gmail.com)
