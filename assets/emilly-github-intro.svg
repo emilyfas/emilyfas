@@ -93,6 +93,6 @@
     <text class="profile-name" x="500" y="104" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="1" fill="#F8FAFC">EMILLY FERNANDES</text>
     <path class="profile-rule" d="M300 124 H700" stroke="#A3E635" stroke-width="2" opacity=".8"/>
     <text class="profile-role" x="500" y="160" font-family="Arial, sans-serif" font-size="21" fill="#67D5E8">Computer Science Student | Technology Intern</text>
-    <text class="profile-tags" x="500" y="198" font-size="16" letter-spacing="2" fill="#A3E635">PYTHON  ·  SQL  ·  DEVELOPMENT  ·  AUTOMATION</text>
+    <text class="profile-tags" x="500" y="198" font-size="16" letter-spacing="2" fill="#A3E635">PYTHON  ·  DEVELOPMENT  ·  AUTOMATION</text>
   </g>
 </svg>
